@@ -2,6 +2,10 @@ Hello Connections!
 
 Just wrapped up an exciting project diving deep into the ICC Men's T20 World Cup 2022 using Python, Pandas, Excel, and Power BI. We aimed to identify the world's best 11 players by categorizing them into roles such as openers, middle order, lower order, finishers, and fast bowling specialists.
 
+Live DashBoard Link: https://app.powerbi.com/view?r=eyJrIjoiN2EzYWZmNWEtODI2ZS00NjdjLWE1ZjQtY2FiMDVlZjg5MjJkIiwidCI6ImY5MTI1ZDYwLWFhOTEtNDFlZi04OWFmLTA1OTcwNDdlMGRhMyJ9
+
+Linkdeln Link:www.linkedin.com/in/saisiddardhapitta
+
 Project Objective:
 
 To find the world's best 11 players in the T20 2022 World Cup, segmented by key roles. The players were selected based on several performance parameters like batting averages, strike rates, and bowling economy, ensuring a balanced team capable of both scoring 180+ runs and defending a score of 150.
